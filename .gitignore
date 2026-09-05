@@ -1,0 +1,10 @@
+node_modules
+.next
+.env*.local
+data/queue
+data/overrides.json
+.vercel
+out
+*.log
+.DS_Store
+tsconfig.tsbuildinfo
