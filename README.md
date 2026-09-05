@@ -52,6 +52,14 @@ npm run dev
 העתק הנתונים ב-`data/dump.json` מבוסס על מבנה הגיליון החי. כתובות `@idf.il`
 לא נכללו בריפו הציבורי.
 
+## כתובת חיה
+
+פרודקשן על חשבון Vercel `avirame8-1861` (אותו חשבון כמו survival-mode-one):
+
+**https://manpower-board-iota.vercel.app**
+
+כניסה: אימייל `avirame8@gmail.com` או סיסמה `aviram`.
+
 ## פריסה
 
 הפרויקט מוגדר ל-Next.js ב-`vercel.json`. אחרי החיבור ל-Vercel:
